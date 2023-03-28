@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "krW/zxPhggjJOjj27CmAA3xvs08Mde3+pHT8d2fiPxk6eLtY2abQRLw+dxQKWnIXzyQ1mrgRHK6D0QdfDUPGGw==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetcore\\Generating Faking Data\\Bogus Data\\Bogus Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fangq\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

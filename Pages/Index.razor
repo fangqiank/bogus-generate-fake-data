@@ -1,0 +1,20 @@
+﻿@page "/"
+@using Bogus_Data.Data;
+@inject DataGenerator _data;
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<div>
+    @_data.GeneratePerson().ToString()
+</div>
+<div>
+    @_data.GeneratePerson().ToString()
+</div>
+<div>
+    @_data.GeneratePerson().ToString()
+</div>
+<div>
+    @_data.GeneratePerson().ToString()
+</div>

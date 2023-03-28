@@ -1,0 +1,34 @@
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\appsettings.Development.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\appsettings.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus Data.staticwebassets.runtime.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus Data.exe
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus Data.deps.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus Data.runtimeconfig.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus Data.dll
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus Data.pdb
+D:\dotnetcore\Generating Faking Data\Bogus Data\bin\Debug\net7.0\Bogus.dll
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.csproj.AssemblyReference.cache
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.AssemblyInfoInputs.cache
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.AssemblyInfo.cs
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.csproj.CoreCompileInputs.cache
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.RazorAssemblyInfo.cache
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.RazorAssemblyInfo.cs
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets\msbuild.Bogus Data.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets\msbuild.build.Bogus Data.props
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bogus Data.props
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bogus Data.props
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets.pack.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets.build.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\staticwebassets.development.json
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\scopedcss\bundle\Bogus Data.styles.css
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\scopedcss\projectbundle\Bogus Data.bundle.scp.css
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.csproj.CopyComplete
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.dll
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\refint\Bogus Data.dll
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.pdb
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\Bogus Data.genruntimeconfig.cache
+D:\dotnetcore\Generating Faking Data\Bogus Data\obj\Debug\net7.0\ref\Bogus Data.dll
